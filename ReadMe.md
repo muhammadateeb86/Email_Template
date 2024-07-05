@@ -1,5 +1,5 @@
 # Shoes Brand Advertisement Email Template
-
+You can view the live site at:([https://<username>.github.io/Email_Design_Template](https://muhammadateeb86.github.io/Email_Template/))
 This repository contains an HTML and CSS email template designed for advertising a shoes brand. The template is designed to be visually appealing and compatible with most email clients.
 
 - **Responsive Design**: Compatible with most email clients and devices.
